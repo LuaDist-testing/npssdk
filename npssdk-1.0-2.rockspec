@@ -1,9 +1,17 @@
+-- This file was automatically generated for the LuaDist project.
+
 package = "npssdk"
-version = "1.0-1"
+version = "1.0-2"
+-- LuaDist source
 source = {
-   url = "git://github.com/Ingenico-NPS-Latam/nps-sdk-lua.git",
-   tag = "1.0.1"
+  tag = "1.0-2",
+  url = "git://github.com/LuaDist-testing/npssdk.git"
 }
+-- Original source
+-- source = {
+--    url = "git://github.com/Ingenico-NPS-Latam/nps-sdk-lua.git",
+--    tag = "1.0.2"
+-- }
 description = {
    summary = "A Lua SDK for Ingenico ePayments - NPS LatAm Services",
    detailed = "This SDK helps you to connect to Ingenico ePayments - NPS LatAm Services",
